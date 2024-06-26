@@ -1,0 +1,34 @@
+_repo: Mikko-Miehelainen-Kuoleman-kilpakosija-b-Kaksi-runoa_73822
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Soini, Lauri
+    aliases:
+    - Ahava, Juho
+    - Soininen, L.
+    - Sauramo, Lauri
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Lauri_Soini
+    - https://en.wikipedia.org/wiki/Lauri_Soininen
+description: ''
+gutenberg_issued: '2024-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73822'
+language: fi
+pgterms:marc905: 20240602235858soini
+pgterms:marc906: '1904'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mikko Mieheläinen; Kuoleman kilpakosija : $b Kaksi runoa'
+url: http://www.gutenberg.org/ebooks/73822
